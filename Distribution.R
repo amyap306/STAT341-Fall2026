@@ -1,4 +1,4 @@
-#Name: A'Mya Porter, Date:8/27/26, Purpose: Test the correlation analysis
+#Name: A'Mya Porter, Date:10/13/26, Purpose: calculate distributions
 
 #apply binomial distribution
 > dbinom(4,size=12,prob=0.2)
